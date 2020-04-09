@@ -1,6 +1,6 @@
 {
-    "name": "zhongqin/php-functional-programming-foundation",
-    "description": "Functional Programming Foundation for PHP",
+    "name": "snkzhong/PFPF",
+    "description": "PHP Functional Programming Foundation",
     "keywords": ["Functional", "FP", "PHP Functional"],
     "license": "MIT",
     "authors": [
