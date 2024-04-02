@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": "~7",
+        "php": "~8",
         "doctrine/annotations": "^1.10"
     },
     "require-dev": {
@@ -96,7 +96,7 @@
             "src/Fun/lt.php",
             "src/Fun/lte.php",
             "src/Fun/map.php",
-            "src/Fun/match.php",
+            "src/Fun/mymatch.php",
             "src/Fun/max.php",
             "src/Fun/min.php",
             "src/Fun/merge.php",

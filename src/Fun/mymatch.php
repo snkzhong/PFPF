@@ -2,7 +2,7 @@
 
 namespace PFPF;
 
-function match(String $regexp, String $str): Bool
+function mymatch(String $regexp, String $str): Bool
 {
     return \preg_match($regexp, $str);
 }
